@@ -15,3 +15,4 @@ const myFunction = function(){
     console.log("Hello World");
     
 }
+//stack-primitive heap-non primitive
